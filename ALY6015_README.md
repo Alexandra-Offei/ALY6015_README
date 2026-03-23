@@ -8,7 +8,7 @@
 
 ## Overview
 
-A rigorous treatment of intermediate statistical methods and machine learning in R, applied to real-world datasets including the ISLR College dataset and 130 years of Maine climate data from NOAA.
+A rigorous treatment of intermediate statistical methods and machine learning in R, from linear regression and hypothesis testing through regularisation and nonparametric methods — applied to real-world datasets including 130 years of Maine climate data.
 
 ---
 
